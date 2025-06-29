@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi there, I'm Ayomiposi 👋
 
-<!--
-**Boblee24/Boblee24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Frontend Developer specializing in **React**, **TypeScript**, **Javascript** 
+🌍 Building responsive, performant web applications  
+📫 Portfolio: [ayomiposi.netlify.app](https://ayomiposi.netlify.app)
+💬 Reach me: **ayomiposiaborisade65@gmail.com**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+#### 🛠️ Languages and Tools
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,redux,firebase,tailwind,html,css,git,github,vscode" />
+
+---
+
+### 📊 GitHub Stats
+
+![Boblee24's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Boblee24&show_icons=true&theme=react&hide=prs)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Boblee24&theme=react)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boblee24&layout=compact&theme=react)
