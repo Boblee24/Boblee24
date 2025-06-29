@@ -11,13 +11,13 @@
 
 #### 🛠️ Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,redux,firebase,tailwind,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,redux,firebase,tailwind,html,css,git,github,vscode,next,discord,supabase,neon" />
 
 ---
 
 ### 📊 GitHub Stats
 
-![Boblee24's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Boblee24&show_icons=true&theme=react&hide=prs)
+<!-- ![Boblee24's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Boblee24&show_icons=true&theme=react&hide=prs)-->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Boblee24&theme=react)
 
