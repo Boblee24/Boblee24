@@ -15,10 +15,10 @@
 
 ---
 
-### 📊 GitHub Stats
+<!-- ### 📊 GitHub Stats 
 
 <!-- ![Boblee24's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Boblee24&show_icons=true&theme=react&hide=prs)-->
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Boblee24&theme=react)
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Boblee24&theme=react)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boblee24&layout=compact&theme=react) --> 
