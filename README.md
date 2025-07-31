@@ -59,7 +59,7 @@ const ayomiposi = {
 
 </div>
 
-### Development Tools
+### Development_Tools
 <div align="center">
   
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -71,7 +71,7 @@ const ayomiposi = {
 ---
 
 
-## 🚀 Featured Projects
+## 🚀 Featured_Projects
 
 
 ## 🤝 Let's Connect!
