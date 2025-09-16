@@ -17,7 +17,7 @@ const ayomiposi = {
   passion: "Creating seamless user experiences",
   currentlyLearning: ["Advanced Next.js", "Web Performance Optimization"],
   philosophy: "Clean code is not written by following a set of rules. Clean code is written by someone who cares.",
-  availability: "Open to exciting opportunities! 🌟"
+  availability: "Open to exciting opportunities!!! 🌟"
 };
 ```
 
