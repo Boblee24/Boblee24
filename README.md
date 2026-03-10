@@ -97,17 +97,6 @@ const ayomiposi = {
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=Boblee24&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10)
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -115,10 +104,6 @@ const ayomiposi = {
   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Boblee24&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
-
----
-
-## 🚀 Featured Projects
 
 ---
 
