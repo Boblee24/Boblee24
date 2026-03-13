@@ -30,7 +30,7 @@ const ayomiposi = {
 
 - 💻 **Full Stack Development**: Building end-to-end web applications with modern technologies
 - ⚡ **Backend Engineering**: Designing scalable APIs and server-side architectures with Node.js & Express
-- 🔗 **Blockchain Development**: Creating decentralized applications and smart contracts with Rust
+- 🔗 **Blockchain Development**: Creating decentralized applications and smart contracts with Rust and Solidity
 - 🎨 **Frontend Excellence**: Crafting responsive, performant user interfaces with React ecosystem
 - 🚀 **System Design**: Architecting scalable, maintainable solutions for complex problems
 - 🤝 **Collaboration**: Working seamlessly with cross-functional teams across the development lifecycle
